@@ -1,4 +1,4 @@
-New profile 👉 (@m-wild)[https://github.com/m-wild]
+New profile 👉 [@m-wild](https://github.com/m-wild)
 
 <!---
 tehmantra/tehmantra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
